@@ -4,7 +4,7 @@
   "description": "Voice coding CLI",
   "type": "module",
   "bin": {
-    "haiii": "dist/cli.js"
+    "haiii": "dist/cli.mjs"
   },
   "engines": {
     "node": ">=16"

@@ -1,0 +1,9 @@
+export declare const IDE_NAVIGATION_SERVER_NAME = "voice-coding-navigation-server";
+export declare const IDE_WORKSPACE_SERVER_NAME = "voice-coding-workspace-server";
+export declare const IDE_CURRENT_FILE_SERVER_NAME = "voice-coding-current-file-server";
+export declare const CODE_SERVER_NAME = "voice-coding-code-server";
+export declare const MANUAL_SERVER_NAME = "voice-coding-manual-server";
+export declare const INSTANT_CODE_SERVER_NAME = "voice-coding-instant-code-server";
+export declare const BACKGROUND_AGENT_SERVER_NAME = "voice-coding-background-agent-server";
+export declare const WORKSPACE_CONTEXT_SERVER_NAME = "voice-coding-workspace-context-server";
+export type MCP_SERVER_NAME = typeof IDE_NAVIGATION_SERVER_NAME | typeof IDE_WORKSPACE_SERVER_NAME | typeof IDE_CURRENT_FILE_SERVER_NAME | typeof CODE_SERVER_NAME | typeof MANUAL_SERVER_NAME | typeof INSTANT_CODE_SERVER_NAME | typeof BACKGROUND_AGENT_SERVER_NAME | typeof WORKSPACE_CONTEXT_SERVER_NAME;

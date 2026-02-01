@@ -21,6 +21,7 @@
     "@types/ws": "^8.18.1",
     "@voice-coding/shared-types": "file:shared_types",
     "ai": "^5.0.39",
+    "chroma-js": "^3.2.0",
     "dotenv": "^17.2.2",
     "effect": "^3.17.13",
     "fastest-levenshtein": "^1.0.16",
